@@ -18,6 +18,9 @@ Tech used :
           * Cloudinary (To host uploaded images on CDN)
           
           
- [Live Heroku Deployment](/) 
+ [Live Replit Deployment]() 
 
 
+## Screenshot :
+
+<img width="655" alt="Capture" src="https://user-images.githubusercontent.com/110506346/204189576-0c159c53-0c33-42a3-9afb-4a9421350458.PNG">
